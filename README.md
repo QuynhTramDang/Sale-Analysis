@@ -1,7 +1,7 @@
 # Sale-Analysis
 Data Analyst || Power BI
 ## About this project 
-🔗 [View the Interactive Power BI Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiYzBmNGQ4NjAtMjYyMy00NzUzLWEwM2QtOGEwYzdmODA4ZmYwIiwidCI6IjJiM2MyY2Q2LTg3NTYtNGMyNy1hMmQwLWY1MzQ4ZTQ4YmNhNiIsImMiOjEwfQ%3D%3D](https://app.powerbi.com/view?r=eyJrIjoiNjBkZTkxZjYtZjY1My00Yzg3LTliMGUtNGYyZDNiZTliNTI0IiwidCI6IjJiM2MyY2Q2LTg3NTYtNGMyNy1hMmQwLWY1MzQ4ZTQ4YmNhNiIsImMiOjEwfQ%3D%3D&pageName=ReportSectionf1d0fdd3d97b903aaad6))  
+🔗 [View the Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjBkZTkxZjYtZjY1My00Yzg3LTliMGUtNGYyZDNiZTliNTI0IiwidCI6IjJiM2MyY2Q2LTg3NTYtNGMyNy1hMmQwLWY1MzQ4ZTQ4YmNhNiIsImMiOjEwfQ%3D%3D&pageName=ReportSectionf1d0fdd3d97b903aaad6)  
 
 <img width="2072" height="1157" alt="image" src="https://github.com/user-attachments/assets/bd95fcf3-22fc-4f1a-8f99-944586225e1e" />
 <img width="2067" height="1140" alt="image" src="https://github.com/user-attachments/assets/43d4eeb9-1132-4c6f-b3be-ddee3e7b5d2b" />
